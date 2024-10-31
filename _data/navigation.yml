@@ -1,11 +1,11 @@
 # main links
-main:
-  - title: "카테고리"
-    url: https://coffee99999.github.io/categories/
-  - title: "태그"
-    url: https://coffee99999.github.io/tags/
-  - title: "RS"
-    url: https://coffee99999.github.io/rs/
+#main:
+  #- title: "카테고리"
+  #  url: https://coffee99999.github.io/categories/
+  #- title: "태그"
+  #  url: https://coffee99999.github.io/tags/
+  #- title: "RS"
+  #  url: https://coffee99999.github.io/rs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
