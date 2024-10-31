@@ -1,6 +1,6 @@
 ---
 title: "RS"
-permalink: /rs/
+permalink: /turtle/
 layout: posts
 author_profile: true
 ---
